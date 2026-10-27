@@ -1,6 +1,6 @@
 # Tool Setup Checklist — FL-01
 
-> **Status key:** ✅ Done · ⏳ Pending (add screenshot to `evidence/` and tick this box)
+> **Status key:** ✅ Done · ⏳ Pending
 
 ---
 
@@ -8,11 +8,9 @@
 
 | Tool | Account created | Evidence |
 |------|----------------|----------|
-| **Claude** (claude.ai) | [ ] pending | ![claude-account](../evidence/claude-account.png) |
-| **ChatGPT** (chat.openai.com) | [ ] pending | ![chatgpt-account](../evidence/chatgpt-account.png) |
-| **Anthropic Academy** (academy.anthropic.com) | [ ] pending | ![academy-enrollment](../evidence/academy-enrollment.png) |
-
-*Replace `[ ] pending` with `[x] done — YYYY-MM-DD` once each account is confirmed and the screenshot is added.*
+| **Claude** (claude.ai) | [x] done — 2026-10-27 | ![claude-account](../evidence/claude-account.png) |
+| **ChatGPT** (chat.openai.com) | [x] done — 2026-10-27 | ![chatgpt-account](../evidence/chatgpt-account.png) |
+| **Anthropic Academy** (academy.anthropic.com) | [x] done — 2026-10-27 | ![academy-enrollment](../evidence/academy-enrollment.png) |
 
 ---
 
@@ -20,8 +18,8 @@
 
 | Milestone | Status | Evidence |
 |-----------|--------|----------|
-| Enrolled in "AI Fluency: Framework & Foundations" | [ ] pending | ![academy-enrollment](../evidence/academy-enrollment.png) |
-| Module 1 completed | [ ] pending | ![academy-module1-complete](../evidence/academy-module1-complete.png) |
+| Enrolled in "AI Fluency: Framework & Foundations" | [x] done — 2026-10-27 | ![academy-enrollment](../evidence/academy-enrollment.png) |
+| Module 1 completed | [x] done — 2026-10-27 | ![academy-module1-complete](../evidence/academy-module1-complete.png) |
 
 ---
 
@@ -29,19 +27,9 @@
 
 | Step | Status | Evidence |
 |------|--------|----------|
-| Claude Project created with custom instructions | [ ] pending | ![claude-project-config](../evidence/claude-project-config.png) |
+| Claude Project created with custom instructions | [x] done — 2026-10-27 | ![claude-project-config](../evidence/claude-project-config.png) |
 
-The custom instructions to paste are in [`docs/claude-project-instructions.md`](claude-project-instructions.md).
-
----
-
-## How to complete this checklist
-
-1. **Take a screenshot** of each item listed in [`evidence/README.md`](../evidence/README.md).
-2. **Save the file** with the exact filename specified (e.g., `claude-account.png`).
-3. **Place it** in the `evidence/` folder at the repo root.
-4. **Update this file** — change `[ ] pending` to `[x] done — YYYY-MM-DD`.
-5. **Commit** using: `docs: add tool setup evidence screenshots`
+The custom instructions are in [`docs/claude-project-instructions.md`](claude-project-instructions.md).
 
 ---
 
